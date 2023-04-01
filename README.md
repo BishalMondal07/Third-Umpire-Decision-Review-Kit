@@ -36,5 +36,3 @@ Open Command Prompt in your Windows -
 
 ● Give Not Out: make a decision that the batsman is not out
 
-# How to Use
-Once you have installed the required libraries, simply run the CricketDRS.py file. The program will open a graphical user interface that allows the user to select a video clip and interact with the decision review system. The user can play the video clip, go to the previous or next frame, and make decisions on whether the batsman is out or not out.
