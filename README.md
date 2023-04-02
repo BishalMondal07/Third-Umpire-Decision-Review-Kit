@@ -19,7 +19,7 @@ Open Command Prompt in your Windows -
 # How to Use
 1. Download the program files and ensure that all dependencies are installed.
 2. Replace the video clip, welcome screen, pending screen, out screen, not out screen, and sponsor screen with your own video and image files. Ensure that they have the same file names as the provided files.
-3. Run the program by executing the command python third_umpire.py in the terminal.
+3. Run the program by executing the command python CricketDRS.py in the terminal.
 4. The video clip will be displayed on the screen, and the user can control playback using the buttons provided. To make a decision, click on the "Give Out" or "Give Not Out" button. A "Decision Pending" message will be displayed until a decision is made.
 5. The program will display the appropriate screen depending on the decision made.
 
